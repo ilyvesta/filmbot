@@ -1,4 +1,0 @@
-# Note: the package is "kurigram" (NOT "kurigramx", a different project).
-kurigram==2.2.25
-pymongo>=4.13,<5
-aiohttp>=3.10,<4
